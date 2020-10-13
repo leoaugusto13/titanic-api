@@ -1,7 +1,6 @@
-![Logo of the project](http://logo_link)
+![Logo of the project](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png)
  
-## Name_of_the_project
- 
+## Titanic API
 ... Description
  
  
