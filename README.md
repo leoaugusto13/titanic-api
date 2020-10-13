@@ -2,6 +2,7 @@
  
 ## Titanic API
 ... Description
+
  Desenvolva uma API HTTP (por exemplo utilizando REST) que permita LER e ESCREVER (talvez um UPDATE e um DELETE) dados do seu banco de dados criado anteriormente.
  
 ## Technology 
