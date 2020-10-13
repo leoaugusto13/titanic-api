@@ -13,24 +13,24 @@ Here are the technologies used in this project.
 * Express 4.17.1
 * Nodemon 2.0.4
 
- 
- 
+  
 ## Services Used
  
 * Github
 
- 
- 
+  
 ## Getting started
  
 * Primeiro baixar o arquivo csv, no link: 
 https://drive.google.com/file/d/1AXlOSTHD1BJUUXooRBcWEbgE__jOhh24/view?usp=sharing
 * Instalar o Postgres 13
 * Executar o pgAdmin4
-(https://ibb.co/6yVQT2w)
-* Depois criar os campos com o mesmo nome da coluna do arquivo acima.
-![](https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png)
->    $ rake db:create db:migrate db:seed
+* Criar a base de dados
+* Criar a tabela e as colunas que irão receber o arquivo a ser importado
+* Utilizar a ferramenta de importação do proprio Postgres para importar o arquivo csv.
+* Criar a pasta do projeto
+* Iniciar o projeto com o comando
+>    $ npm init y
 * To run the project:
 >    $ rails s
  
