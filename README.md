@@ -27,7 +27,7 @@ Here are the technologies used in this project.
 https://drive.google.com/file/d/1AXlOSTHD1BJUUXooRBcWEbgE__jOhh24/view?usp=sharing
 * Instalar o Postgres 13
 * Executar o pgAdmin4
-![](https://ibb.co/6yVQT2w)
+(https://ibb.co/6yVQT2w)
 * Depois criar os campos com o mesmo nome da coluna do arquivo acima.
 ![](https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png)
 >    $ rake db:create db:migrate db:seed
