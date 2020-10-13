@@ -2,31 +2,34 @@
  
 ## Titanic API
 ... Description
- 
+ Desenvolva uma API HTTP (por exemplo utilizando REST) que permita LER e ESCREVER (talvez um UPDATE e um DELETE) dados do seu banco de dados criado anteriormente.
  
 ## Technology 
  
 Here are the technologies used in this project.
  
-* Ruby version  x.x.x
-* Rails version x.x.x
-* ...
+* Node JS 12.18.5
+* Postgres 13
+* Express 4.17.1
+* Nodemon 2.0.4
+
  
  
 ## Services Used
  
 * Github
-* ...
+
  
- 
-## Ruby Gems
-...
  
 ## Getting started
  
-* To install gems:
->    $ bundle install
-* To create the bank and do as migrations:
+* Primeiro baixar o arquivo csv, no link: 
+https://drive.google.com/file/d/1AXlOSTHD1BJUUXooRBcWEbgE__jOhh24/view?usp=sharing
+* Instalar o Postgres 13
+* Executar o pgAdmin4
+![](https://ibb.co/6yVQT2w)
+* Depois criar os campos com o mesmo nome da coluna do arquivo acima.
+![](https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png)
 >    $ rake db:create db:migrate db:seed
 * To run the project:
 >    $ rails s
