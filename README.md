@@ -33,26 +33,14 @@ https://drive.google.com/file/d/1AXlOSTHD1BJUUXooRBcWEbgE__jOhh24/view?usp=shari
 * Iniciar o projeto com o comando
 >    $ npm init y
 * To run the project:
->    $ rails s
+>    nodemon dev
  
-## How to use
+## Dockerize
  
-Here will be the images and descriptions. Principal content.
- 
- 
-## Features
- 
-  - Here will be the features.
- 
- 
-## Links
- 
-  - Link of deployed application: (if has been deployed)
-  - Repository: https://link_of_repository
-    - In case of sensitive bugs like security vulnerabilities, please contact
-      YOUR EMAIL directly instead of using issue tracker. We value your effort
-      to improve the security and privacy of this project!
- 
+* Utilizei dois comandos um para criar a imagem da minha aplicação e o outro para rodar a imagem da minha aplicação
+>    docker build -t titanic_api .
+>    docker run titanic-api:latest
+
  
 ## Versioning
  
@@ -61,8 +49,7 @@ Here will be the images and descriptions. Principal content.
  
 ## Authors
  
-* **YOUR NAME**: @YOUR_GITHUB_NICKNAME (https://github.com/YOUR_GITHUB_NICKNAME)
+* **Leonardo Augusto dos Santos Soares**: @leoaugusto13 (https://github.com/leoaugusto13)
  
  
-Please follow github and join us!
-Thanks to visiting me and good coding!
+
