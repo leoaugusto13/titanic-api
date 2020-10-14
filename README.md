@@ -37,8 +37,9 @@ https://drive.google.com/file/d/1AXlOSTHD1BJUUXooRBcWEbgE__jOhh24/view?usp=shari
  
 ## Dockerize
  
-* Utilizei dois comandos um para criar a imagem da minha aplicação e o outro para rodar a imagem da minha aplicação
+* Utilizei dois comandos um para criar a imagem da minha aplicação:
 >    docker build -t titanic_api .
+* Comando para rodar a imagem docker:
 >    docker run titanic-api:latest
 
  
